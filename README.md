@@ -1,6 +1,4 @@
-# Демо для курса по Docker
-
-Сборка сервиса
+#Сборка сервиса
 ```
 docker build -t test -f apps/api/Dockerfile .
 ```
